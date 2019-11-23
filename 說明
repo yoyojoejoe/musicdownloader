@@ -1,5 +1,11 @@
 請先安裝必要之函式庫
+
 安裝pytube 指令:pip install pytube  or  pip3 install pytube
+
 安裝requests 指令:pip install requests or pip3 install requests
+
 安裝BeautifulSoup 指令:pip install BeautifulSoup4 or pip3 install BeautifulSoup4
+
 安裝win32 指令:pip install pywin32  or  pip3 install pywin32
+
+pytube安裝後大概律有bug 請參考https://github.com/nficano/pytube/issues/434
